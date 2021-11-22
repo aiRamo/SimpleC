@@ -70,7 +70,7 @@ def button_equal():
 
     global isAnswered 
     isAnswered = True 
-button_color = "#CECE6E"
+button_color = "#CECECE"
 root = Tk()
 root.title("Simple Calculator")
 
